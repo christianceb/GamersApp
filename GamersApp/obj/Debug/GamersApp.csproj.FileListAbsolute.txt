@@ -17,3 +17,257 @@ C:\Users\j393554\source\repos\GamersApp\GamersApp\obj\Debug\GamersApp.exe
 C:\Users\j393554\source\repos\GamersApp\GamersApp\obj\Debug\GamersApp.pdb
 C:\Users\j393554\source\repos\GamersApp\GamersApp\obj\Debug\CompanyForm.g.cs
 C:\Users\j393554\source\repos\GamersApp\GamersApp\obj\Debug\CompanyForm.baml
+E:\tafe\ictprg413-410\GamersApp\GamersApp\bin\Debug\GamersApp.exe.config
+E:\tafe\ictprg413-410\GamersApp\GamersApp\bin\Debug\GamersApp.exe
+E:\tafe\ictprg413-410\GamersApp\GamersApp\bin\Debug\GamersApp.pdb
+E:\tafe\ictprg413-410\GamersApp\GamersApp\obj\Debug\GamersApp.csprojAssemblyReference.cache
+E:\tafe\ictprg413-410\GamersApp\GamersApp\obj\Debug\CompanyForm.g.cs
+E:\tafe\ictprg413-410\GamersApp\GamersApp\obj\Debug\CompanyList.g.cs
+E:\tafe\ictprg413-410\GamersApp\GamersApp\obj\Debug\Dashboard.g.cs
+E:\tafe\ictprg413-410\GamersApp\GamersApp\obj\Debug\App.g.cs
+E:\tafe\ictprg413-410\GamersApp\GamersApp\obj\Debug\GamersApp_MarkupCompile.cache
+E:\tafe\ictprg413-410\GamersApp\GamersApp\obj\Debug\GamersApp_MarkupCompile.lref
+E:\tafe\ictprg413-410\GamersApp\GamersApp\obj\Debug\CompanyForm.baml
+E:\tafe\ictprg413-410\GamersApp\GamersApp\obj\Debug\CompanyList.baml
+E:\tafe\ictprg413-410\GamersApp\GamersApp\obj\Debug\Dashboard.baml
+E:\tafe\ictprg413-410\GamersApp\GamersApp\obj\Debug\GamersApp.g.resources
+E:\tafe\ictprg413-410\GamersApp\GamersApp\obj\Debug\GamersApp.Properties.Resources.resources
+E:\tafe\ictprg413-410\GamersApp\GamersApp\obj\Debug\GamersApp.csproj.GenerateResource.cache
+E:\tafe\ictprg413-410\GamersApp\GamersApp\obj\Debug\GamersApp.csproj.CoreCompileInputs.cache
+E:\tafe\ictprg413-410\GamersApp\GamersApp\obj\Debug\GamersApp.exe
+E:\tafe\ictprg413-410\GamersApp\GamersApp\obj\Debug\GamersApp.pdb
+C:\Users\j393554\Documents\Visual Studio 2017\source\GamersApp\GamersApp\bin\Debug\GamersApp.exe.config
+C:\Users\j393554\Documents\Visual Studio 2017\source\GamersApp\GamersApp\bin\Debug\GamersApp.exe
+C:\Users\j393554\Documents\Visual Studio 2017\source\GamersApp\GamersApp\bin\Debug\GamersApp.pdb
+C:\Users\j393554\Documents\Visual Studio 2017\source\GamersApp\GamersApp\obj\Debug\GamersApp.csprojAssemblyReference.cache
+C:\Users\j393554\Documents\Visual Studio 2017\source\GamersApp\GamersApp\obj\Debug\CompanyList.g.cs
+C:\Users\j393554\Documents\Visual Studio 2017\source\GamersApp\GamersApp\obj\Debug\Dashboard.g.cs
+C:\Users\j393554\Documents\Visual Studio 2017\source\GamersApp\GamersApp\obj\Debug\App.g.cs
+C:\Users\j393554\Documents\Visual Studio 2017\source\GamersApp\GamersApp\obj\Debug\GamersApp_MarkupCompile.cache
+C:\Users\j393554\Documents\Visual Studio 2017\source\GamersApp\GamersApp\obj\Debug\GamersApp_MarkupCompile.lref
+C:\Users\j393554\Documents\Visual Studio 2017\source\GamersApp\GamersApp\obj\Debug\CompanyList.baml
+C:\Users\j393554\Documents\Visual Studio 2017\source\GamersApp\GamersApp\obj\Debug\Dashboard.baml
+C:\Users\j393554\Documents\Visual Studio 2017\source\GamersApp\GamersApp\obj\Debug\GamersApp.g.resources
+C:\Users\j393554\Documents\Visual Studio 2017\source\GamersApp\GamersApp\obj\Debug\GamersApp.Properties.Resources.resources
+C:\Users\j393554\Documents\Visual Studio 2017\source\GamersApp\GamersApp\obj\Debug\GamersApp.csproj.GenerateResource.cache
+C:\Users\j393554\Documents\Visual Studio 2017\source\GamersApp\GamersApp\obj\Debug\GamersApp.csproj.CoreCompileInputs.cache
+C:\Users\j393554\Documents\Visual Studio 2017\source\GamersApp\GamersApp\obj\Debug\GamersApp.exe
+C:\Users\j393554\Documents\Visual Studio 2017\source\GamersApp\GamersApp\obj\Debug\GamersApp.pdb
+C:\Users\j393554\Documents\Visual Studio 2017\source\GamersApp\GamersApp\obj\Debug\CompanyFormEditable.g.cs
+C:\Users\j393554\Documents\Visual Studio 2017\source\GamersApp\GamersApp\obj\Debug\CompanyFormEditable.baml
+C:\Users\j393554\Documents\Visual Studio 2017\source\GamersApp\GamersApp\bin\Debug\ISO3166.dll
+C:\Users\j393554\Documents\Visual Studio 2017\source\GamersApp\GamersApp\obj\Debug\GamersApp.csproj.CopyComplete
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\bin\Debug\GamersApp.exe.config
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\bin\Debug\GamersApp.exe
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\bin\Debug\GamersApp.pdb
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\bin\Debug\ISO3166.dll
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.csprojAssemblyReference.cache
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\CompanyList.g.cs
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\Dashboard.g.cs
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\App.g.cs
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\GamersApp_MarkupCompile.cache
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\GamersApp_MarkupCompile.lref
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\CompanyList.baml
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\Dashboard.baml
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.g.resources
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.Properties.Resources.resources
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.csproj.GenerateResource.cache
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.csproj.CoreCompileInputs.cache
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.csproj.CopyComplete
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.exe
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.pdb
+E:\GamersApp\GamersApp\obj\Debug\CompanyFormEditable.g.cs
+E:\GamersApp\GamersApp\obj\Debug\CompanyList.g.cs
+E:\GamersApp\GamersApp\obj\Debug\Dashboard.g.cs
+E:\GamersApp\GamersApp\obj\Debug\App.g.cs
+E:\GamersApp\GamersApp\obj\Debug\GamersApp_MarkupCompile.cache
+E:\GamersApp\GamersApp\obj\Debug\GamersApp_MarkupCompile.lref
+E:\GamersApp\GamersApp\bin\Debug\GamersApp.exe.config
+E:\GamersApp\GamersApp\bin\Debug\GamersApp.exe
+E:\GamersApp\GamersApp\bin\Debug\GamersApp.pdb
+E:\GamersApp\GamersApp\bin\Debug\ISO3166.dll
+E:\GamersApp\GamersApp\bin\Debug\Newtonsoft.Json.dll
+E:\GamersApp\GamersApp\bin\Debug\Newtonsoft.Json.xml
+E:\GamersApp\GamersApp\obj\Debug\CompanyFormEditable.baml
+E:\GamersApp\GamersApp\obj\Debug\CompanyList.baml
+E:\GamersApp\GamersApp\obj\Debug\Dashboard.baml
+E:\GamersApp\GamersApp\obj\Debug\GamersApp.g.resources
+E:\GamersApp\GamersApp\obj\Debug\GamersApp.Properties.Resources.resources
+E:\GamersApp\GamersApp\obj\Debug\GamersApp.csproj.GenerateResource.cache
+E:\GamersApp\GamersApp\obj\Debug\GamersApp.csproj.CoreCompileInputs.cache
+E:\GamersApp\GamersApp\obj\Debug\GamersApp.csproj.CopyComplete
+E:\GamersApp\GamersApp\obj\Debug\GamersApp.exe
+E:\GamersApp\GamersApp\obj\Debug\GamersApp.pdb
+C:\Users\j393554\Desktop\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.csprojAssemblyReference.cache
+C:\Users\j393554\Desktop\PP3\GamersApp\GamersApp\obj\Debug\About.g.cs
+C:\Users\j393554\Desktop\PP3\GamersApp\GamersApp\obj\Debug\ChartControl.g.cs
+C:\Users\j393554\Desktop\PP3\GamersApp\GamersApp\obj\Debug\CompanyForm.g.cs
+C:\Users\j393554\Desktop\PP3\GamersApp\GamersApp\obj\Debug\CompanyList.g.cs
+C:\Users\j393554\Desktop\PP3\GamersApp\GamersApp\obj\Debug\Dashboard.g.cs
+C:\Users\j393554\Desktop\PP3\GamersApp\GamersApp\obj\Debug\App.g.cs
+C:\Users\j393554\Desktop\PP3\GamersApp\GamersApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\j393554\Desktop\PP3\GamersApp\GamersApp\obj\Debug\GamersApp_MarkupCompile.cache
+C:\Users\j393554\Desktop\PP3\GamersApp\GamersApp\obj\Debug\GamersApp_MarkupCompile.lref
+C:\Users\j393554\Desktop\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.exe
+C:\Users\j393554\Desktop\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.pdb
+C:\Users\j393554\Desktop\PP3\GamersApp\GamersApp\bin\Debug\GamersApp.exe.config
+C:\Users\j393554\Desktop\PP3\GamersApp\GamersApp\bin\Debug\GamersApp.exe
+C:\Users\j393554\Desktop\PP3\GamersApp\GamersApp\bin\Debug\GamersApp.pdb
+C:\Users\j393554\Desktop\PP3\GamersApp\GamersApp\bin\Debug\ISO3166.dll
+C:\Users\j393554\Desktop\PP3\GamersApp\GamersApp\bin\Debug\LiveCharts.dll
+C:\Users\j393554\Desktop\PP3\GamersApp\GamersApp\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\j393554\Desktop\PP3\GamersApp\GamersApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\j393554\Desktop\PP3\GamersApp\GamersApp\bin\Debug\LiveCharts.pdb
+C:\Users\j393554\Desktop\PP3\GamersApp\GamersApp\bin\Debug\LiveCharts.xml
+C:\Users\j393554\Desktop\PP3\GamersApp\GamersApp\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\j393554\Desktop\PP3\GamersApp\GamersApp\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\j393554\Desktop\PP3\GamersApp\GamersApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\j393554\Desktop\PP3\GamersApp\GamersApp\obj\Debug\About.baml
+C:\Users\j393554\Desktop\PP3\GamersApp\GamersApp\obj\Debug\ChartControl.baml
+C:\Users\j393554\Desktop\PP3\GamersApp\GamersApp\obj\Debug\CompanyForm.baml
+C:\Users\j393554\Desktop\PP3\GamersApp\GamersApp\obj\Debug\CompanyList.baml
+C:\Users\j393554\Desktop\PP3\GamersApp\GamersApp\obj\Debug\Dashboard.baml
+C:\Users\j393554\Desktop\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.g.resources
+C:\Users\j393554\Desktop\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.Properties.Resources.resources
+C:\Users\j393554\Desktop\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.csproj.GenerateResource.cache
+C:\Users\j393554\Desktop\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.csproj.CoreCompileInputs.cache
+C:\Users\j393554\Desktop\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.csproj.CopyComplete
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\bin\Debug\GamersApp.exe.config
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\bin\Debug\GamersApp.exe
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\bin\Debug\GamersApp.pdb
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\bin\Debug\ISO3166.dll
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\bin\Debug\LiveCharts.dll
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\bin\Debug\LiveCharts.Wpf.dll
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\bin\Debug\Newtonsoft.Json.dll
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\bin\Debug\LiveCharts.pdb
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\bin\Debug\LiveCharts.xml
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\bin\Debug\LiveCharts.Wpf.pdb
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\bin\Debug\LiveCharts.Wpf.xml
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\bin\Debug\Newtonsoft.Json.xml
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.csprojAssemblyReference.cache
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\About.g.cs
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\ChartControl.g.cs
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\CompanyForm.g.cs
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\CompanyList.g.cs
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\Dashboard.g.cs
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\App.g.cs
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\GamersApp_MarkupCompile.cache
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\GamersApp_MarkupCompile.lref
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\About.baml
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\ChartControl.baml
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\CompanyForm.baml
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\CompanyList.baml
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\Dashboard.baml
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.g.resources
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.Properties.Resources.resources
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.csproj.GenerateResource.cache
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.csproj.CoreCompileInputs.cache
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.csproj.CopyComplete
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.exe
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.pdb
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\PieControl.g.cs
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\PieControl.baml
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\bin\Debug\ControlzEx.dll
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\bin\Debug\MahApps.Metro.dll
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\bin\Debug\System.Windows.Interactivity.dll
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\bin\Debug\ControlzEx.pdb
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\bin\Debug\MahApps.Metro.pdb
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\bin\Debug\MahApps.Metro.xml
+E:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\App.baml
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\bin\Debug\ControlzEx.dll
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\bin\Debug\LiveCharts.dll
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\bin\Debug\LiveCharts.Wpf.dll
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\bin\Debug\MahApps.Metro.dll
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\bin\Debug\Newtonsoft.Json.dll
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\bin\Debug\System.Windows.Interactivity.dll
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\bin\Debug\ControlzEx.pdb
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\bin\Debug\LiveCharts.pdb
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\bin\Debug\LiveCharts.xml
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\bin\Debug\LiveCharts.Wpf.pdb
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\bin\Debug\LiveCharts.Wpf.xml
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\bin\Debug\MahApps.Metro.pdb
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\bin\Debug\MahApps.Metro.xml
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\bin\Debug\Newtonsoft.Json.xml
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\App.baml
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\About.g.cs
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\ChartControl.g.cs
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\CompanyForm.g.cs
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\PieControl.g.cs
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\About.baml
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\ChartControl.baml
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\CompanyForm.baml
+F:\tafe\ictprg413-410\Assessments\PP3\GamersApp\GamersApp\obj\Debug\PieControl.baml
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\bin\Debug\GamersApp.exe.config
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\bin\Debug\GamersApp.exe
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\bin\Debug\GamersApp.pdb
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\bin\Debug\ControlzEx.dll
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\bin\Debug\ISO3166.dll
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\bin\Debug\LiveCharts.dll
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\bin\Debug\MahApps.Metro.dll
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\bin\Debug\ControlzEx.pdb
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\bin\Debug\LiveCharts.pdb
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\bin\Debug\LiveCharts.xml
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\bin\Debug\MahApps.Metro.pdb
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\bin\Debug\MahApps.Metro.xml
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.csprojAssemblyReference.cache
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\obj\Debug\App.baml
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\obj\Debug\About.g.cs
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\obj\Debug\ChartControl.g.cs
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\obj\Debug\CompanyForm.g.cs
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\obj\Debug\CompanyList.g.cs
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\obj\Debug\Dashboard.g.cs
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\obj\Debug\PieControl.g.cs
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\obj\Debug\App.g.cs
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\obj\Debug\GamersApp_MarkupCompile.cache
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\obj\Debug\GamersApp_MarkupCompile.lref
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\obj\Debug\About.baml
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\obj\Debug\ChartControl.baml
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\obj\Debug\CompanyForm.baml
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\obj\Debug\CompanyList.baml
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\obj\Debug\Dashboard.baml
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\obj\Debug\PieControl.baml
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.g.resources
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.Properties.Resources.resources
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.csproj.GenerateResource.cache
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.csproj.CoreCompileInputs.cache
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.csproj.CopyComplete
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.exe
+C:\Users\MSI GE60\Desktop\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.pdb
+C:\dev\ICTPRG413-410\PP3\GamersApp\GamersApp\bin\Debug\GamersApp.exe.config
+C:\dev\ICTPRG413-410\PP3\GamersApp\GamersApp\bin\Debug\GamersApp.exe
+C:\dev\ICTPRG413-410\PP3\GamersApp\GamersApp\bin\Debug\GamersApp.pdb
+C:\dev\ICTPRG413-410\PP3\GamersApp\GamersApp\bin\Debug\ControlzEx.dll
+C:\dev\ICTPRG413-410\PP3\GamersApp\GamersApp\bin\Debug\ISO3166.dll
+C:\dev\ICTPRG413-410\PP3\GamersApp\GamersApp\bin\Debug\System.Windows.Interactivity.dll
+C:\dev\ICTPRG413-410\PP3\GamersApp\GamersApp\bin\Debug\ControlzEx.pdb
+C:\dev\ICTPRG413-410\PP3\GamersApp\GamersApp\obj\Debug\ChartControl.g.cs
+C:\dev\ICTPRG413-410\PP3\GamersApp\GamersApp\obj\Debug\CompanyForm.g.cs
+C:\dev\ICTPRG413-410\PP3\GamersApp\GamersApp\obj\Debug\CompanyList.g.cs
+C:\dev\ICTPRG413-410\PP3\GamersApp\GamersApp\obj\Debug\Dashboard.g.cs
+C:\dev\ICTPRG413-410\PP3\GamersApp\GamersApp\obj\Debug\PieControl.g.cs
+C:\dev\ICTPRG413-410\PP3\GamersApp\GamersApp\obj\Debug\App.g.cs
+C:\dev\ICTPRG413-410\PP3\GamersApp\GamersApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\dev\ICTPRG413-410\PP3\GamersApp\GamersApp\obj\Debug\GamersApp_MarkupCompile.cache
+C:\dev\ICTPRG413-410\PP3\GamersApp\GamersApp\obj\Debug\GamersApp_MarkupCompile.lref
+C:\dev\ICTPRG413-410\PP3\GamersApp\GamersApp\obj\Debug\ChartControl.baml
+C:\dev\ICTPRG413-410\PP3\GamersApp\GamersApp\obj\Debug\CompanyForm.baml
+C:\dev\ICTPRG413-410\PP3\GamersApp\GamersApp\obj\Debug\CompanyList.baml
+C:\dev\ICTPRG413-410\PP3\GamersApp\GamersApp\obj\Debug\Dashboard.baml
+C:\dev\ICTPRG413-410\PP3\GamersApp\GamersApp\obj\Debug\PieControl.baml
+C:\dev\ICTPRG413-410\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.g.resources
+C:\dev\ICTPRG413-410\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.Properties.Resources.resources
+C:\dev\ICTPRG413-410\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.csproj.GenerateResource.cache
+C:\dev\ICTPRG413-410\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.csproj.CoreCompileInputs.cache
+C:\dev\ICTPRG413-410\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.csproj.CopyComplete
+C:\dev\ICTPRG413-410\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.exe
+C:\dev\ICTPRG413-410\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.pdb
+C:\dev\ICTPRG413-410\PP3\GamersApp\GamersApp\obj\Debug\GamersApp.csprojAssemblyReference.cache

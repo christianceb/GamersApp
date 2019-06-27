@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-E:\tafe\ictprg413-410\GamersApp\GamersApp\obj\Debug\
+C:\dev\ICTPRG413-410\PP3\GamersApp\GamersApp\obj\Debug\
 GamersApp
 none
 false
 DEBUG;TRACE
-E:\tafe\ictprg413-410\GamersApp\GamersApp\App.xaml
-3-196584839
+C:\dev\ICTPRG413-410\PP3\GamersApp\GamersApp\App.xaml
+5-1578490585
 
-11-1408198885
-131569487696
-CompanyForm.xaml;CompanyList.xaml;Dashboard.xaml;
+9-1437033674
+17-938519428
+ChartControl.xaml;CompanyForm.xaml;CompanyList.xaml;Dashboard.xaml;PieControl.xaml;
 
-True
+False
 

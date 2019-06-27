@@ -1,32 +1,42 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using ISO3166;
+using System;
 using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Shapes;
 
 namespace GamersApp
 {
-    /// <summary>
-    /// Interaction logic for CompanyForm.xaml
-    /// </summary>
-    public partial class CompanyForm : Window
-    {
-        public CompanyForm()
-        {
-            InitializeComponent();
-        }
+  /// <summary>
+  /// Interaction logic for CompanyForm.xaml
+  /// </summary>
+  public partial class CompanyForm : Window
+  {
+    public string Verb;
 
-        private void BtnCancel_Click(object sender, RoutedEventArgs e)
-        {
-            this.Close();
-        }
+    public CompanyForm(String title, String verb)
+    {
+      InitializeComponent();
+
+      Verb = verb;
+
+      // Set Window Labels
+      this.Title = title;
+      lblOperationTitle.Content = title;
+      btnOperation.Content = verb;
+
+      // Set Countries Combo Box Values
+      Country[] countries = ISO3166.Country.List;
+      cboCountry.ItemsSource = countries;
+      cboCountry.DisplayMemberPath = "Name";
     }
+
+
+    private void BtnCancel_Click(object sender, RoutedEventArgs e)
+    {
+      this.Close();
+    }
+
+    private void BtnOperation_Click(object sender, RoutedEventArgs e)
+    {
+      this.Close();
+    }
+  }
 }

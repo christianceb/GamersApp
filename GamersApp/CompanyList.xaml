@@ -5,27 +5,67 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:GamersApp"
         mc:Ignorable="d"
-        Title="CompanyList" Height="450" Width="800">
-    <Grid>
-        <DataGrid HorizontalAlignment="Left" Height="65" Margin="10,136,0,0" VerticalAlignment="Top" Width="772">
-            <DataGrid.Columns>
-                <DataGridTextColumn Binding="{x:Null}" ClipboardContentBinding="{x:Null}" Header="ID"/>
-                <DataGridTextColumn Binding="{x:Null}" ClipboardContentBinding="{x:Null}" Header="Company Name"/>
-                <DataGridHyperlinkColumn Binding="{x:Null}" ContentBinding="{x:Null}" ClipboardContentBinding="{x:Null}" Header="Website"/>
-                <DataGridHyperlinkColumn Binding="{x:Null}" ContentBinding="{x:Null}" ClipboardContentBinding="{x:Null}" Header="Email"/>
-                <DataGridHyperlinkColumn Binding="{x:Null}" ContentBinding="{x:Null}" ClipboardContentBinding="{x:Null}" Header="Phone"/>
-                <DataGridTextColumn Binding="{x:Null}" ClipboardContentBinding="{x:Null}" Header="Contact Person"/>
-            </DataGrid.Columns>
-        </DataGrid>
-        <Button x:Name="btnNew" Content="New" HorizontalAlignment="Left" Margin="10,388,0,0" VerticalAlignment="Top" Width="75" Click="BtnNew_Click"/>
-        <Button x:Name="btnEdit" Content="Edit" HorizontalAlignment="Left" Margin="90,388,0,0" VerticalAlignment="Top" Width="75"/>
-        <Button x:Name="btnDelete" Content="Delete" HorizontalAlignment="Left" Margin="170,388,0,0" VerticalAlignment="Top" Width="75"/>
-        <Button x:Name="btnExit" Content="Exit" HorizontalAlignment="Left" Margin="707,388,0,0" VerticalAlignment="Top" Width="75" Click="BtnExit_Click"/>
-        <Button Content="Reset" HorizontalAlignment="Left" Margin="345,92,0,0" VerticalAlignment="Top" Width="75"/>
-        <Button Content="Filter" HorizontalAlignment="Left" Margin="265,92,0,0" VerticalAlignment="Top" Width="75"/>
-        <TextBox HorizontalAlignment="Left" Height="23" Margin="60,92,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="200"/>
-        <Label Content="Search" HorizontalAlignment="Left" Margin="10,90,0,0" VerticalAlignment="Top"/>
+        Title="List of Companies" Height="450" Width="800">
+  <DockPanel>
+    <Grid DockPanel.Dock="Top">
+      <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="10"/>
+        <ColumnDefinition Width="1*"/>
+        <ColumnDefinition Width="10"/>
+      </Grid.ColumnDefinitions>
+      <Grid.RowDefinitions>
+        <RowDefinition Height="10"/>
+        <RowDefinition Height="Auto"/>
+        <RowDefinition Height="10"/>
+      </Grid.RowDefinitions>
+      <Label Content="List of Companies" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="20" Grid.Column="1" Height="37" Width="167" Grid.Row="1"/>
+      <Label Content="Search" HorizontalAlignment="Left" Margin="0,37,0,0" VerticalAlignment="Top" Height="26" Width="45" Grid.Row="1" Grid.Column="1"/>
+      <TextBox x:Name="txtSearch" HorizontalAlignment="Left" Height="23" Margin="50,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" Grid.Column="1" Grid.Row="1" />
+      <Button x:Name="btnReset" Content="Reset" HorizontalAlignment="Left" Margin="255,43,0,0" VerticalAlignment="Top" Width="76" Grid.Column="1" Height="20" Grid.Row="1"/>
     </Grid>
-
-
+    <Grid DockPanel.Dock="Bottom">
+      <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="10"/>
+        <ColumnDefinition Width="1*"/>
+        <ColumnDefinition Width="10"/>
+      </Grid.ColumnDefinitions>
+      <Grid.RowDefinitions>
+        <RowDefinition Height="10"/>
+        <RowDefinition Height="Auto"/>
+        <RowDefinition Height="10"/>
+      </Grid.RowDefinitions>
+      <Button x:Name="btnNew" Content="New" HorizontalAlignment="Left" VerticalAlignment="Center" Width="75" Click="BtnNew_Click" Grid.Column="1" Height="20" Grid.Row="1" />
+      <Button x:Name="btnEdit" Content="Edit" HorizontalAlignment="Left" VerticalAlignment="Center" Width="75" Click="BtnEdit_Click" Grid.Column="1" Height="20" Grid.Row="1" Margin="85,0,70,0"/>
+      <Button x:Name="btnDelete" Content="Delete" HorizontalAlignment="Left" VerticalAlignment="Center" Width="75" Click="BtnDelete_Click" Grid.Column="1" Height="20" Grid.Row="1" Margin="170,0,0,0"/>
+      <Button x:Name="btnExit" Content="Exit" HorizontalAlignment="Right" VerticalAlignment="Center" Width="75" Click="BtnExit_Click" Grid.Column="1" Height="20" Grid.Row="1"/>
+    </Grid>
+    <Grid>
+      <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="10"/>
+        <ColumnDefinition Width="1*"/>
+        <ColumnDefinition Width="10"/>
+      </Grid.ColumnDefinitions>
+      <Grid.RowDefinitions>
+        <RowDefinition Height="10"/>
+        <RowDefinition Height="1*"/>
+        <RowDefinition Height="10"/>
+      </Grid.RowDefinitions>
+      <ListView x:Name="lvwCompanies" Grid.Column="1" Grid.Row="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+        <ListView.View>
+          <GridView AllowsColumnReorder="False">
+            <GridViewColumn Header="ID" />
+            <GridViewColumn Header="Company Name" />
+            <GridViewColumn Header="Contact Person" />
+            <GridViewColumn Header="Phone" />
+            <GridViewColumn Header="Email" />
+            <GridViewColumn Header="Website" />
+            <GridViewColumn Header="Address" />
+            <GridViewColumn Header="State" />
+            <GridViewColumn Header="Post Code" />
+            <GridViewColumn Header="Country" />
+          </GridView>
+        </ListView.View>
+      </ListView>
+    </Grid>
+  </DockPanel>
 </Window>

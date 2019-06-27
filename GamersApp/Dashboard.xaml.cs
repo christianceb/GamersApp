@@ -1,35 +1,28 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
+﻿using System.Windows;
 
 namespace GamersApp
 {
-    /// <summary>
-    /// Interaction logic for Dashboard.xaml
-    /// </summary>
-    public partial class Dashboard : Window
+  /// <summary>
+  /// Interaction logic for Dashboard.xaml
+  /// </summary>
+  public partial class Dashboard : Window
+  {
+    public Dashboard()
     {
-        public Dashboard()
-        {
-            InitializeComponent();
-        }
-
-        private void MitCompanies_Click(object sender, RoutedEventArgs e)
-        {
-            CompanyList companyListWindow = new CompanyList();
-            companyListWindow.Owner = this;
-            companyListWindow.Show();
-        }
+      InitializeComponent();
     }
+
+    private void MitCompanies_Click(object sender, RoutedEventArgs e)
+    {
+      // Invokes the window to show the companies list.
+      CompanyList companyList = new CompanyList();
+      companyList.Owner = this;
+      companyList.ShowDialog();
+    }
+
+    private void MitQuit_Click(object sender, RoutedEventArgs e)
+    {
+      this.Close();
+    }
+  }
 }
