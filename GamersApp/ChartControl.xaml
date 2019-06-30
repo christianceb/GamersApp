@@ -4,6 +4,7 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:GamersApp"
+             xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
              mc:Ignorable="d" 
              d:DesignHeight="150" d:DesignWidth="150">
   <Grid Background="Black" x:Name="CardGrid">
@@ -20,5 +21,21 @@
     </Grid.ColumnDefinitions>
     <TextBlock TextWrapping="Wrap" Text="{Binding Path=CardTitle}" VerticalAlignment="Top" HorizontalAlignment="Stretch" Grid.Column="1" Grid.Row="1" Foreground="White" TextAlignment="Center"/>
     <TextBlock TextWrapping="Wrap" Text="{Binding Path=CardContent}" VerticalAlignment="Bottom" HorizontalAlignment="Stretch" Grid.Column="1" Grid.Row="1" Foreground="White" TextAlignment="Center" FontSize="36"/>
+    <lvc:CartesianChart x:Name="CardChart" Series="{Binding Path=SeriesData}" Grid.Row="2" Hoverable="False" DataTooltip="{x:Null}" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+      <lvc:CartesianChart.AxisX>
+        <lvc:Axis MinValue="0" ShowLabels="False">
+          <lvc:Axis.Separator>
+            <lvc:Separator IsEnabled="False" />
+          </lvc:Axis.Separator>
+        </lvc:Axis>
+      </lvc:CartesianChart.AxisX>
+      <lvc:CartesianChart.AxisY>
+        <lvc:Axis MinValue="0" ShowLabels="False">
+          <lvc:Axis.Separator>
+            <lvc:Separator IsEnabled="False"  />
+          </lvc:Axis.Separator>
+        </lvc:Axis>
+      </lvc:CartesianChart.AxisY>
+    </lvc:CartesianChart>
   </Grid>
 </UserControl>

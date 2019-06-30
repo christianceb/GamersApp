@@ -1,4 +1,7 @@
-﻿using System.Windows.Controls;
+﻿using LiveCharts;
+using LiveCharts.Wpf;
+using System;
+using System.Windows.Controls;
 
 namespace GamersApp
 {

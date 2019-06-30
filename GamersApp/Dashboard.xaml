@@ -1,20 +1,21 @@
-﻿<Window x:Class="GamersApp.Dashboard"
+﻿<Controls:MetroWindow x:Class="GamersApp.Dashboard"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:GamersApp"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
         mc:Ignorable="d"
-        Title="GamersApp" Height="450" Width="800">
+        Title="GamersApp" Height="450" Width="800" Closing="Window_Closing" Activated="MetroWindow_Activated" KeyUp="MetroWindow_KeyUp">
   <DockPanel>
     <Menu DockPanel.Dock="Top">
       <MenuItem Header="File">
-        <MenuItem x:Name="mitSave" Header="Save" />
+        <MenuItem x:Name="mitSave" Header="Save" Click="MitSave_Checked"/>
         <MenuItem x:Name="mitQuit" Header="Quit" Click="MitQuit_Click"/>
       </MenuItem>
       <MenuItem Header="Games"/>
       <MenuItem x:Name="mitCompanies" Header="Companies" Click="MitCompanies_Click"/>
-      <MenuItem x:Name="MitAbout" Header="About" />
+      <MenuItem x:Name="MitAbout" Header="About" Click="MitAbout_Click"/>
     </Menu>
     <StatusBar DockPanel.Dock="Bottom">
       <StatusBar.ItemsPanel>
@@ -61,11 +62,11 @@
         <ColumnDefinition Width="150"/>
         <ColumnDefinition Width="*"/>
       </Grid.ColumnDefinitions>
-      <local:ChartControl x:Name="ChartControlTotalCompanies" Grid.Column="1" Grid.Row="1" CardTitle="Games" CardContent="2" />
-      <local:ChartControl x:Name="ChartControlCompaniesByCountry" Grid.Column="3" Grid.Row="1" CardTitle="Owned" CardContent="3" />
+      <local:ChartControl x:Name="ChartControlTotalCompanies" Grid.Column="1" Grid.Row="1" CardTitle="Total Companies" CardContent="{Binding Path=Count}" />
+      <local:ChartControl x:Name="ChartControlCompaniesByCountry" Grid.Column="3" Grid.Row="1" CardTitle="Countries with Companies" CardContent="{Binding Path=CountriesCount}" />
       <local:PieControl Grid.Column="5" Grid.Row="1" />
-      <local:ChartControl x:Name="ChartControlNameCharCount" Grid.Column="7" Grid.Row="1" CardTitle="Wanted"  CardContent="5" />
-      <local:ChartControl x:Name="ChartControlNumberCharCount" Grid.Column="1" Grid.Row="3" CardTitle="Manufacturers" CardContent="7" />
+      <local:ChartControl x:Name="ChartControlNameCharCount" Grid.Column="7" Grid.Row="1" CardTitle="Name Character Count" />
+      <local:ChartControl x:Name="ChartControlNumberCharCount" Grid.Column="1" Grid.Row="3" CardTitle="Name Number Count" />
     </Grid>
   </DockPanel>
-</Window>
+</Controls:MetroWindow>

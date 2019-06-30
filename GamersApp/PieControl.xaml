@@ -4,6 +4,7 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:GamersApp"
+             xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
              mc:Ignorable="d" 
              d:DesignHeight="150" d:DesignWidth="150">
   <Grid Background="Black" x:Name="CardGrid">
@@ -17,5 +18,16 @@
       <ColumnDefinition Width="1*"/>
       <ColumnDefinition Width="5"/>
     </Grid.ColumnDefinitions>
+
+    <lvc:PieChart Hoverable="False" DataTooltip="{x:Null}" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Grid.Column="1" Grid.Row="1">
+      <lvc:PieChart.Series>
+        <lvc:PieSeries Values="29" DataLabels="False" />
+        <lvc:PieSeries Values="97" DataLabels="False" />
+        <lvc:PieSeries Values="92" DataLabels="False" />
+        <lvc:PieSeries Values="45" DataLabels="False" />
+        <lvc:PieSeries Values="8" DataLabels="False" />
+      </lvc:PieChart.Series>
+    </lvc:PieChart>
+
   </Grid>
 </UserControl>
